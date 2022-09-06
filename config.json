@@ -1,0 +1,19 @@
+{
+  "game_name": "2048",
+  "game_logo": "",
+  "game_description": "",
+  "max_comb": 2048,
+  "enableShop": false,
+  "shopItemUrl": "",
+  "admobAppID": "",
+  "admobBannerUnitID": "",
+  "admobInterstitialUnitID": "",
+  "admobRewardedUnitID": "",
+  "showAdmob": false,
+  "showAdmobBanner": false,
+  "showAdmobInterstitial": false,
+  "showAdmobRewarded": false,
+  "admobCapping": 5,
+  "showUnity": false,
+  "unityGameID": ""
+}
