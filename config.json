@@ -15,5 +15,8 @@
   "showAdmobRewarded": false,
   "admobCapping": 5,
   "showUnity": false,
-  "unityGameID": ""
+  "unityGameID": "",
+  "forced_update": false,
+  "current_version": 1.0,
+  "game_url": ""
 }
