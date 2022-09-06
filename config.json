@@ -3,6 +3,7 @@
   "game_logo": "",
   "game_description": "Take victory and earn stars to exchange... ",
   "max_comb": 2048,
+  "win_reward":500,
   "columns":5,
   "rows":5,
   "enableShop": false,
